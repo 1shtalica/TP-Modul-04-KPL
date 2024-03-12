@@ -1,0 +1,7 @@
+E:\Programming\Project\Kuliah\KPL\TP Modul 04\TP Modul 04\TP Modul 04\bin\Debug\TP Modul 04.exe.config
+E:\Programming\Project\Kuliah\KPL\TP Modul 04\TP Modul 04\TP Modul 04\bin\Debug\TP Modul 04.exe
+E:\Programming\Project\Kuliah\KPL\TP Modul 04\TP Modul 04\TP Modul 04\bin\Debug\TP Modul 04.pdb
+E:\Programming\Project\Kuliah\KPL\TP Modul 04\TP Modul 04\TP Modul 04\obj\Debug\TP Modul 04.csproj.AssemblyReference.cache
+E:\Programming\Project\Kuliah\KPL\TP Modul 04\TP Modul 04\TP Modul 04\obj\Debug\TP Modul 04.csproj.CoreCompileInputs.cache
+E:\Programming\Project\Kuliah\KPL\TP Modul 04\TP Modul 04\TP Modul 04\obj\Debug\TP Modul 04.exe
+E:\Programming\Project\Kuliah\KPL\TP Modul 04\TP Modul 04\TP Modul 04\obj\Debug\TP Modul 04.pdb
